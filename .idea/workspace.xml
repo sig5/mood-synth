@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01dde05c-1c4a-4f30-9487-2b502aa6cdcd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="01dde05c-1c4a-4f30-9487-2b502aa6cdcd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +27,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin/dataset" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/bin/assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/bin/dataset" />
       <recent name="$PROJECT_DIR$/venv/bin" />
     </key>
   </component>
@@ -177,22 +179,22 @@
       <screen x="0" y="20" width="1366" height="715" />
     </state>
     <state x="450" y="199" width="455" height="363" key="#com.intellij.fileTypes.FileTypeChooser/0.20.1366.715@0.20.1366.715" timestamp="1586363933666" />
-    <state width="1348" height="174" key="GridCell.Tab.0.bottom" timestamp="1586488921019">
+    <state width="1348" height="174" key="GridCell.Tab.0.bottom" timestamp="1586489954083">
       <screen x="0" y="20" width="1366" height="715" />
     </state>
-    <state width="1348" height="174" key="GridCell.Tab.0.bottom/0.20.1366.715@0.20.1366.715" timestamp="1586488921019" />
-    <state width="1348" height="174" key="GridCell.Tab.0.center" timestamp="1586488921018">
+    <state width="1348" height="174" key="GridCell.Tab.0.bottom/0.20.1366.715@0.20.1366.715" timestamp="1586489954083" />
+    <state width="1348" height="174" key="GridCell.Tab.0.center" timestamp="1586489954082">
       <screen x="0" y="20" width="1366" height="715" />
     </state>
-    <state width="1348" height="174" key="GridCell.Tab.0.center/0.20.1366.715@0.20.1366.715" timestamp="1586488921018" />
-    <state width="1348" height="174" key="GridCell.Tab.0.left" timestamp="1586488921016">
+    <state width="1348" height="174" key="GridCell.Tab.0.center/0.20.1366.715@0.20.1366.715" timestamp="1586489954082" />
+    <state width="1348" height="174" key="GridCell.Tab.0.left" timestamp="1586489954081">
       <screen x="0" y="20" width="1366" height="715" />
     </state>
-    <state width="1348" height="174" key="GridCell.Tab.0.left/0.20.1366.715@0.20.1366.715" timestamp="1586488921016" />
-    <state width="1348" height="174" key="GridCell.Tab.0.right" timestamp="1586488921018">
+    <state width="1348" height="174" key="GridCell.Tab.0.left/0.20.1366.715@0.20.1366.715" timestamp="1586489954081" />
+    <state width="1348" height="174" key="GridCell.Tab.0.right" timestamp="1586489954083">
       <screen x="0" y="20" width="1366" height="715" />
     </state>
-    <state width="1348" height="174" key="GridCell.Tab.0.right/0.20.1366.715@0.20.1366.715" timestamp="1586488921018" />
+    <state width="1348" height="174" key="GridCell.Tab.0.right/0.20.1366.715@0.20.1366.715" timestamp="1586489954083" />
     <state x="362" y="20" width="910" height="715" key="SettingsEditor" timestamp="1586444007649">
       <screen x="0" y="20" width="1366" height="715" />
     </state>

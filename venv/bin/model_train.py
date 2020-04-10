@@ -44,7 +44,7 @@ emotions = {'01':'neutral',
 
 def load_data(test_size=0.2):
     x,y=[],[]
-    for file in glob.glob("/home/sakar/Downloads/speech-emotion-recognition-ravdess-data/Actor_*/*.wav"):
+    for file in glob.glob("dataset/speech-emotion-recognition-ravdess-data/Actor_*/*.wav"):
         f_name = os.path.basename(file)
         emotion = emotions[ f_name.split("-")[2] ]
         if emotion not in observed_emo:
