@@ -16,11 +16,11 @@
 
 ## Features
 <img src='/venv/bin/assets/2.png'/>
-<li>1.Used RAVDESS dataset licensed under Creative Commons License,
-<li>2. Classifies Data on the basis  of MLP Classification.
-<li>3. An accuracy of around 70%-78% has been recorded.
-<li>3.A Tkinter based GUI interface that provides user ease of accesiblity.</li>
-<li>4. Modern Material Design</li>
+<li>Uses RAVDESS dataset licensed under Creative Commons License,
+<li>Classifies Data on the basis  of MLP Classification.
+<li>An accuracy of around 70%-78% has been recorded.
+<li>A Tkinter based GUI interface that provides user ease of accesiblity.</li>
+<li>Modern Material Design</li>
 
 ## Input
 <br>
@@ -37,10 +37,10 @@ The sample rate of the Dataset file has been reduced to lower the file-size.
 <br>
 <img src='/venv/bin/assets/3.png'/>
 The data is classified into four categories as of now<br>
-<li>1.Calm</li>
-<li>2.Happy</li>
-<li>3.Fearful</li>
-<li>4.Disgust</li>
+<li>Calm</li>
+<li>Happy</li>
+<li>Fearful</li>
+<li>Disgust</li>
 <br>
 
 ## References
