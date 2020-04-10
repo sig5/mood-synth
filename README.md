@@ -8,6 +8,11 @@
 
 >mood-synth is a speech synthesis GUI based python program which predicts the mood of user with a Machine learning Model based
 >on RAVDESS dataset.
+## How to use?
+
+<br>
+<li>  Execute "/venv/bin/ui.py" and appropriate GUI will be launched.
+ <br>
 
 ## Features
 <img src='/venv/bin/assets/2.png'/>
