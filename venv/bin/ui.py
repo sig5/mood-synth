@@ -62,7 +62,7 @@ panel.pack(side=TOP)
 
 if not os.path.exists('mymodel'):
     model_train.main()
-lbl=Label(top,text="Designed by Sakar Singhal",background='#393e46',foreground='#ecf0f1')
+lbl=Label(top,text="Developed by Sakar Singhal",background='#393e46',foreground='#ecf0f1')
 lbl.config(font=('',8))
 lbl.pack(side=BOTTOM)
 btn=Button(top,text="Choose your file",command=clicked,borderwidth=0,background='#00adb5',highlightthickness=0,foreground='#ecf0f1',width=100,height=2)
