@@ -16,10 +16,11 @@
 
 ## Features
 <img src='/venv/bin/assets/2.png'/>
-<li>Uses RAVDESS dataset licensed under Creative Commons License,
+<li>Uses RAVDESS dataset licensed under Creative Commons License.
 <li>Classifies Data on the basis  of MLP Classification.
+<li>Uses reLU function as the corresponding activation function.
 <li>An accuracy of around 70%-78% has been recorded.
-<li>A Tkinter based GUI interface that provides user ease of accesiblity.</li>
+<li>A Tkinter based GUI interface that provides user ease of accesiblity.
 <li>Modern Material Design</li>
 
 ## Input
