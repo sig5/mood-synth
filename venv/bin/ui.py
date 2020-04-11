@@ -1,3 +1,9 @@
+import os
+print (os.environ['PYTHONPATH'])
+
+import sys
+print (sys.path)
+
 from tkinter import *
 from tkinter import filedialog
 import tkinter

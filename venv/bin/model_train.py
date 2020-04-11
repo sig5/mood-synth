@@ -1,3 +1,11 @@
+import os
+print (os.environ['PYTHONPATH'])
+
+
+import sys
+print (sys.path)
+
+
 import librosa
 import soundfile
 import os
@@ -57,7 +65,7 @@ def load_data(test_size=0.2):
 
 
 def main():
-    x_train, x_test, y_train, y_test = load_data(test_size=0.2)
+    x_train, x_test, y_train, y_test = load_data(test_size=0.1)
     print(x_train.shape[0],x_test.shape[0])
     print(x_train.shape[1])
     model=MLPClassifier(alpha=0.01,batch_size=256,epsilon=1e-08,hidden_layer_sizes=(300,),learning_rate='adaptive',max_iter=500)
